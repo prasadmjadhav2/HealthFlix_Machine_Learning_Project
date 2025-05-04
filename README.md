@@ -1,3 +1,5 @@
+![HealthFlix](https://github.com/prasadmjadhav2/HealthFlix_Machine_Learning_Project/blob/main/HealthFlix.png)
+
 # 🩺 HealthFlix ML Project: Revolutionizing Patient Care with Predictive Intelligence
 
 This repository contains the code and resources for the HealthFlix ML project, a healthcare analytics platform designed to predict medical conditions, hospital admission types, and billing estimates using real-world patient data and Artificial Intelligence.
